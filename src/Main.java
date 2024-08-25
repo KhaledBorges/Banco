@@ -26,7 +26,7 @@ public class Main {
             if (opcao > 4 || opcao < 0) {
             sout("\nOpção inválida. Tente novamente");
             opcao = 0;
-            }0
+            }
             switch(opcao) {
                 case 0:
                     sout("""
